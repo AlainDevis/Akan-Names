@@ -10289,9 +10289,9 @@ input[type=submit]:hover {
   text-transform: uppercase;
 }
 .highlight1{
-  color: #c2b611;
-  font-weight: bold;
   text-transform: uppercase;
+  color: #c2b611;
+  font-weight: bold; 
 }
 .card1 {
   position: relative;
