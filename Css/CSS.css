@@ -60,7 +60,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: rgb(219, 216, 216);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10283,8 +10283,8 @@ input[type=submit]:hover {
   font-weight: bold;
   text-transform: uppercase;
 }
-.highligh1{
-  color: #d8ca0b;
+.highlight1{
+  color: #c2b611;
   font-weight: bold;
   text-transform: uppercase;
 }
