@@ -5256,6 +5256,11 @@ a.badge-dark:focus, a.badge-dark.focus {
   border-radius: 0.3rem;
   color: #fff;
 }
+.jumbotron p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+}
 
 @media (min-width: 576px) {
   .jumbotron {
