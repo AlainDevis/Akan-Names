@@ -4721,7 +4721,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #0a243f;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
@@ -10280,6 +10280,12 @@ input[type=submit]:hover {
 }
 .highlight{
   color: #800606;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.highligh1{
+  color: #d8ca0b;
+  font-weight: bold;
   text-transform: uppercase;
 }
 .card1 {
@@ -10295,5 +10301,9 @@ input[type=submit]:hover {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+}
+.card-body1{
+  padding-top:22px;
+  text-align: center;
 }
 /*# sourceMappingURL=bootstrap.css.map */
