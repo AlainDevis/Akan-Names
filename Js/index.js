@@ -1,0 +1,1 @@
+var birthdayDate= document.getElementsByName("BD");
