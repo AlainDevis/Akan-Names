@@ -1,12 +1,13 @@
 function dayOftheWeek(){
     var birthdayDate = document.getElementById("BD").value;
     var genderMF;
-    if (document.getElementById("male").checked = true){
+    if (document.getElementById("male").checked ){
         genderMF = "male";
     }
-    if (document.getElementById("female").checked = true){
+    else{
         genderMF = "female";
-    }  
-    // alert(birthdayDate);
+    }
     document.getElementById("Result").innerHTML = birthdayDate + " " + genderMF;
 }
+
+
