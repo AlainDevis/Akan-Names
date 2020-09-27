@@ -44,6 +44,6 @@ Contact:
 ##### devisalain04@gmail.com
 ##### +250786253538
 
-Check The Active pages here https://github.com/AlainDevis/Akan-Names
+Check The Active pages here  https://alaindevis.github.io/Akan-Names/
 
 Under the MIT license and copyright.
